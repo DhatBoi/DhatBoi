@@ -2,13 +2,13 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F90F7&random=false&width=535&lines=%E2%9C%A8+Welcome+to+my+Mini+World!" alt="Typing SVG" />
 </h1>
 <h1 align="center">Hi ✌️, I am DhatBoi</h1>
-<h3 align="center">A passionate leaner with a strong interest in cybersecurity and a desire to apply data engineering skills to enhance data security. Eager to learn and contribute to the development of secure data solutions.</h3>
+<h3 align="center">A passionate leaner with a strong interest in cybersecurity and data engineering. Eager to learn and contribute to the development of secure data solutions.</h3>
 
 
 
 
-- 🔭 I’m currently working on a NodeJest.js.
-- 🌱 I’m currently learning full-stack web development
+- 🔭 I’m currently working on cloud computing. 
+- 🌱 I’m looking for to data engineering opportunities. 
 - 👯 I’m looking to collaborate on data security, data analytics and computer networking.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Strength In Numbers
